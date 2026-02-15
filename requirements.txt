@@ -4,3 +4,4 @@ groq
 pandas
 openpyxl
 python-dotenv
+boto3
