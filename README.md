@@ -24,12 +24,14 @@ AI-powered call transcription and analysis system using Groq's Whisper and LLaMA
 ## Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/thelakshyadubey/AI-Call-Intelligence.git
    cd AI-Call-Intelligence
    ```
 
 2. **Create virtual environment**
+
    ```bash
    python -m venv venv
    .\venv\Scripts\Activate.ps1  # Windows
@@ -38,17 +40,19 @@ AI-powered call transcription and analysis system using Groq's Whisper and LLaMA
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Configure API key**
-   
+
    Create a `.env` file in the root directory:
+
    ```env
    GROQ_API_KEY=your_groq_api_key_here
    ```
-   
+
    Get your free API key at: https://console.groq.com/
 
 5. **Run the application**
@@ -97,6 +101,7 @@ AI-Call-Intelligence/
 ## Features in Detail
 
 ### Call Analysis Output
+
 - **Summary**: Concise overview of the call
 - **Sentiment**: Positive/Negative/Neutral classification
 - **Category**: Issue type (Billing, Technical, etc.)
@@ -105,6 +110,7 @@ AI-Call-Intelligence/
 - **Recommended Actions**: Next steps for resolution
 
 ### Trend Analysis
+
 - Total calls tracking
 - Sentiment distribution across calls
 - Top issue categories
@@ -139,6 +145,7 @@ This project is open source and available under the MIT License.
 ## Author
 
 **Lakshya Dubey**
+
 - GitHub: [@thelakshyadubey](https://github.com/thelakshyadubey)
 
 ## Acknowledgments
