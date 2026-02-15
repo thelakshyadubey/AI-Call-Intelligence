@@ -84,7 +84,7 @@ Complete guide to deploy AI Call Intelligence on AWS EC2 with S3 storage.
 5. Click **Launch Instance**
 
 6. **Wait 2-3 minutes**, then:
-   - Note your **Public IP address** (e.g., `54.123.45.67`)
+   - Note your **Public IP address** (e.g., `54.123.45.67`)52.90.160.60
    - Status should show: **Running** ✅
 
 ---
