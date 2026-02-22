@@ -154,6 +154,10 @@ This project is open source and available under the MIT License.
 - Streamlit for the excellent web framework
 - OpenAI for Whisper model architecture
 
----
+##Screenshots
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/052a23cf-37cd-467c-9e36-cb820d936cf2" />
+<img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/8d1faf58-fdb1-4776-bf9b-75c9552afc59" />
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/193fa1cd-d251-4056-9476-23358c6ccc38" />
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/b65d6c4f-fb4c-40c3-b36d-fc4b7e231271" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/6dbcb91c-3e67-4ce1-a338-5e64a8f4bbca" />
 
-Made with ❤️ using Groq AI
